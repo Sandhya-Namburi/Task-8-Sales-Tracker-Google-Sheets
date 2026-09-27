@@ -88,9 +88,6 @@ Sales-Tracker-Google-Sheets/
 ├── retail_sales_dataset.csv
 ├── Sales_Tracker_Task_8.xlsx
 ├── README.md
-│
-└── screenshots/
-    └── sales_tracker_summary.png
 ```
 
 ## ✅ Task Deliverables
